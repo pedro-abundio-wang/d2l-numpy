@@ -24,6 +24,7 @@ kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.1.1
 mistune==0.8.4
+mxnet-cu100==1.5.0b20190703
 nbconvert==5.6.0
 nbformat==4.4.0
 notebook==6.0.1
